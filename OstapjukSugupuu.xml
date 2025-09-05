@@ -1,0 +1,39 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<!--jada-->
+<inimene saasta="1945">
+	<nimi>Lilja Ostapjuk</nimi>
+	<sunnikoht>NSV Liit</sunnikoht>
+	<lapsed>
+		<inimene saasta="1968">
+			<nimi>Anatoli Ostapjuk</nimi>
+			<sunnikoht>NSV Liit</sunnikoht>
+			<lapsed>
+				<inimene saasta="1993">
+					<nimi>Aljona Ostapjuk</nimi>
+					<sunnikoht>Estonia</sunnikoht>
+				</inimene>
+				<inimene saasta="2004">
+					<nimi>Jelizaveta Ostapjuk</nimi>
+					<sunnikoht>Estonia</sunnikoht>
+				</inimene>
+			</lapsed>
+		</inimene>
+		<inimene saasta ="1973">
+			<nimi>Valeri Ostapjuk</nimi>
+			<lapsed>
+				<inimene saasta="1990">
+					<nimi>Angelina Ostapjuk</nimi>
+					<sunnikoht>NSV Liit</sunnikoht>
+				</inimene>
+				<inimene saasta="1995">
+					<nimi>Alexander Ostapjuk</nimi>
+					<sunnikoht>Estonia</sunnikoht>
+				</inimene>
+				<inimene saasta="1999">
+					<nimi>Tatjana Ostapjuk</nimi>
+					<sunnikoht>Estonia</sunnikoht>
+				</inimene>
+			</lapsed>
+		</inimene>
+	</lapsed>
+</inimene>
